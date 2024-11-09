@@ -1,0 +1,56 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" }
+    ],
+    
+    "theme": {
+        "file": "/ventoy/theme/dark/sleek/theme.txt",
+        "gfxmode": "1024x768",  
+        "display_mode": "GUI",
+        "ventoy_color": "#414141"
+    },
+
+    "menu_class": [        
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },        
+        {
+            "key": "kali",
+            "class": "kali"
+        },         
+        {
+            "key": "rhel",
+            "class": "rhel"
+        },        
+        {
+            "key": "antivirus",
+            "class": "zorinos"
+        },        
+        {
+            "key": "blackarch",
+            "class": "arch"
+        }, 
+        {
+            "key": "Win",
+            "class": "windows"
+        }, 
+        {
+            "key": "deft",
+            "class": "deft"
+        }, 
+        {
+            "key": "tsurugi",
+            "class": "tsu"
+        }, 
+        {
+            "key": "Parrot",
+            "class": "parrot"
+        },
+        {
+            "key": "android",
+            "class": "deepin"
+        }
+    ]
+}
